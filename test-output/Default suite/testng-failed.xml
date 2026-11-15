@@ -7,7 +7,6 @@
         <methods>
           <include name="kerala_setup"/>
           <include name="kerala_titleverification_mthd"/>
-          <include name="kerala_homemthd"/>
           <include name="kerala_objmthd"/>
         </methods>
       </class> <!-- test_pkg.Kerala_logintest -->

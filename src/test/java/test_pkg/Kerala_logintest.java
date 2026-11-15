@@ -17,7 +17,7 @@ public class Kerala_logintest extends Kerala_Baseclass
 	@Test(priority=2)
 	public void kerala_loginverification_mthd()
 	{
-		kerala_loginobj.kerala_login_mthd("parvathykrishnan862@gmail.com", "parvathy@62");
+		kerala_loginobj.kerala_login_mthd("nibinyt19@gmail.com", "hydra@123");
 	}
 
 }
